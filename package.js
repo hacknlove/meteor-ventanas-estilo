@@ -4,7 +4,7 @@ Package.describe({
   name: 'hacknlove:estilo',
   version: '1.0.0',
   summary: 'less style to use with hacknlove:ventanas',
-  git: 'https://github.com/hacknlove/meteor-ventanas',
+  git: 'https://github.com/hacknlove/meteor-ventanas-estilo',
   documentation: 'README.md'
 })
 
