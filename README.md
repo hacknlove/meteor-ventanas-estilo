@@ -37,4 +37,3 @@ body {
   --color-tinta-f2: #RRGGBBAA;
   }
 ```
-# meteor-ventanas-estilo
